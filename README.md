@@ -1,2 +1,2 @@
 # JOC
-C programs from joy of coding
+C programs from Joy Of Coding
